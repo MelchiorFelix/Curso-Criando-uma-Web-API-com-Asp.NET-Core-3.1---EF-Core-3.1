@@ -50,5 +50,30 @@ namespace SmartSchool.WebAPI.Controllers
             if(aluno == null) return BadRequest("Nome do aluno não se encontra em nossa base de dados.");
             return Ok(aluno);
         }
+
+        [HttpPost]
+        public IActionResult Post(Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Put(int id, Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+
+        [HttpPatch("{id}")]
+        public IActionResult Patch(int id, Aluno aluno)
+        {
+            return Ok(aluno);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            //service.deleteById(id);
+            return NoContent();
+        }
     }
 }
