@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj": {}
+    "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj": {
+    "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
+        "projectUniqueName": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
         "projectName": "SmartSchool.WebAPI",
-        "projectPath": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
+        "projectPath": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
         "packagesPath": "C:\\Users\\Trabalho Iteris\\.nuget\\packages\\",
-        "outputPath": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\obj\\",
+        "outputPath": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Trabalho Iteris\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,16 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
