@@ -1,0 +1,15 @@
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\SmartSchool.API.exe
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\SmartSchool.API.csprojAssemblyReference.cache
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\SmartSchool.API.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\SmartSchool.API.AssemblyInfo.cs
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\SmartSchool.API.RazorTargetAssemblyInfo.cache
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\staticwebassets\SmartSchool.API.StaticWebAssets.Manifest.cache
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\staticwebassets\SmartSchool.API.StaticWebAssets.xml
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desenvolvimento\Cursos\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\SmartSchool\SmartSchool.API\obj\Debug\netcoreapp3.1\SmartSchool.API.csproj.CopyComplete
