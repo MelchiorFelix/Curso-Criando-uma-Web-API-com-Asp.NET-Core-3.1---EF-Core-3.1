@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Melchior\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Melchior\\.nuget\\packages"
+      "C:\\Users\\Trabalho Iteris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Trabalho Iteris\\.nuget\\packages"
     ]
   }
 }

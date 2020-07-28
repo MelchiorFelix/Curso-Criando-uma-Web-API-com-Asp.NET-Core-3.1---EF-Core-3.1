@@ -37,10 +37,17 @@ namespace SmartSchool.WebAPI.Controllers
             return Ok(alunos);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("{id:int}")]
         public IActionResult getById(int id)
         {   var aluno = alunos.FirstOrDefault(a => a.Id == id);
             if(aluno == null) return BadRequest("Aluno não encontrado");
+            return Ok(aluno);
+        }
+
+        [HttpGet("{nome}")]
+        public IActionResult getByNome(string nome, string sobrenome)
+        {   var aluno = alunos.FirstOrDefault(a => a.Nome.Contains(nome));
+            if(aluno == null) return BadRequest("Nome do aluno não se encontra em nossa base de dados.");
             return Ok(aluno);
         }
     }

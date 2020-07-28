@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Melchior\\.nuget\\packages\\": {}
+    "C:\\Users\\Trabalho Iteris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
+      "projectUniqueName": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
       "projectName": "SmartSchool.WebAPI",
-      "projectPath": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
-      "packagesPath": "C:\\Users\\Melchior\\.nuget\\packages\\",
-      "outputPath": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\obj\\",
+      "projectPath": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Trabalho Iteris\\.nuget\\packages\\",
+      "outputPath": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Melchior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Trabalho Iteris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
