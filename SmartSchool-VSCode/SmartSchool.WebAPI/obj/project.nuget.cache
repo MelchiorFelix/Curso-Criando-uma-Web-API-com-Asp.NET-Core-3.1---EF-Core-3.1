@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrdVvVLHyLh732hjqd0/lD2JlPLWY4dnpiW7SDiSTZ5RjVIdOGEsZS/7aFmhhCPaOsrrM2LojEjxJy0yWvWk9w==",
+  "dgSpecHash": "TUzoZop8WXk5K8uhARwBijMilOuKjA4ZUMcJwvJ0cJsi5d8F/fV5ZlojxJvL3BiosaKQC6YnDCabgnOIXzu3OQ==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\Cursos\\Curso-Criando-uma-Web-API-com-Asp.NET-Core-3.1-+-EF-Core-3.1\\SmartSchool-VSCode\\SmartSchool.WebAPI\\SmartSchool.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Trabalho Iteris\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Trabalho Iteris\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
